@@ -1,2 +1,2 @@
 #!/bin/bash
-ls ./ ../ /boot -al
+ls -alp ./ ../ /boot -alp | grep -v /
