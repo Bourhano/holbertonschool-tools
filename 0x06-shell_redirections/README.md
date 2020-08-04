@@ -1,0 +1,1 @@
+this is the sixth exercice containing I/O redirections and shell operaions.
