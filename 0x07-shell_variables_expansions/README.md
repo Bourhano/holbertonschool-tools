@@ -1,0 +1,1 @@
+Directory containing solution for shell exercuces treating variables, expansions and initiation files.
